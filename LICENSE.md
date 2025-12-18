@@ -1,5 +1,7 @@
 # VirtuaLabs Non-Commercial Attribution License (VLABS-NC-1.0)
 
+SPDX-License-Identifier: VLABS-NC-1.0
+
 Copyright © 2025 VirtuaLabs
 
 ---
