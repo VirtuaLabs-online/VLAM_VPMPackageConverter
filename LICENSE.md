@@ -22,7 +22,7 @@ visible attribution to the original author.
 
 Minimum required attribution:
 
-> "Created by VirtuaLabs.cloud"
+> "Created by VirtuaLabs"
 
 Attribution must be:
 - Included in source code headers **or**
